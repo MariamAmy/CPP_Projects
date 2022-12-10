@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1670686823 source:c:\users\mariam\see++\cpp_projects\datastructures&algorithms\sorting_algorithms\main.cpp
+	<iostream>
+	"BubbleSort.h"
+	"InsertionSort.h"
+	"SelectionSort.h"
+	"MergeSort.h"
+
+1670677627 c:\users\mariam\see++\cpp_projects\datastructures&algorithms\sorting_algorithms\bubblesort.h
+	<bits/stdc++.h>
+
+1670631532 c:\users\mariam\see++\cpp_projects\datastructures&algorithms\sorting_algorithms\insertionsort.h
+	<bits/stdc++.h>
+
+1670629399 c:\users\mariam\see++\cpp_projects\datastructures&algorithms\sorting_algorithms\selectionsort.h
+	<bits/stdc++.h>
+
+1670686760 c:\users\mariam\see++\cpp_projects\datastructures&algorithms\sorting_algorithms\mergesort.h
+
