@@ -50,8 +50,8 @@ bool isBalancedParentheses(string str){
     map <char, char> mp;
 
     mp[')'] = '(';
-	mp['}'] = '{';
-	mp[']'] = '[';
+    mp['}'] = '{';
+    mp[']'] = '[';
 
     for(size_t i = 0; i < str.length(); i++){
         if(isalpha(str[i]) || isdigit(str[i]) || str[i]==' ')
