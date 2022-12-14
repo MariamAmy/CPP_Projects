@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1670993339 source:c:\users\mariam\see++\cpp_projects\datastructures&algorithms\stack implmentation\stack_postfix_evaluation\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	"stack.h"
+
+1670763931 c:\users\mariam\see++\cpp_projects\datastructures&algorithms\stack implmentation\stack_postfix_evaluation\stack.h
+	<bits/stdc++.h>
+	"node.h"
+
+1670705538 c:\users\mariam\see++\cpp_projects\datastructures&algorithms\stack implmentation\stack_postfix_evaluation\node.h
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+

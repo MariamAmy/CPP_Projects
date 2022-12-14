@@ -4,6 +4,7 @@
 #include"InsertionSort.h"       //    O(n^2)
 #include"SelectionSort.h"       //    O(n^2)
 #include"MergeSort.h"           //    O(nlog(n))
+#include"QuickSort.h"           //    O()
 
 using namespace std;
 
