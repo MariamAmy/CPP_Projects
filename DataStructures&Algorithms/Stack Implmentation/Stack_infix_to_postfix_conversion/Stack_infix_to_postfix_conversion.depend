@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1670997925 source:c:\users\mariam\see++\cpp_projects\datastructures&algorithms\stack implmentation\stack_infix_to_postfix_conversion\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	"stack.h"
+
+1670763931 c:\users\mariam\see++\cpp_projects\datastructures&algorithms\stack implmentation\stack_infix_to_postfix_conversion\stack.h
+	<bits/stdc++.h>
+	"node.h"
+
+1670705538 c:\users\mariam\see++\cpp_projects\datastructures&algorithms\stack implmentation\stack_infix_to_postfix_conversion\node.h
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+
