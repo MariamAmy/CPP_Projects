@@ -32,8 +32,8 @@ public:
 
 template <class t>
 Stack<t>::Stack() :size(0), top(-1), arr(nullptr) {
-    arr = new t[size];
     size = 10;
+    arr = new t[size];
 }
 
 template <class t>
